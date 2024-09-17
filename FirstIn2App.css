@@ -1,0 +1,8 @@
+a{
+    font-size: 30px;
+    color:blue;
+}
+
+a[href="www.google.com"]{
+    color:red;
+}
